@@ -1,5 +1,5 @@
 # MaszynaStosowa
-Napisz program wykonujący następujące operacje na stosie liczb całkowitych. Stos zaimplementowany jako lista jednokierunkowa.
+Program wykonujący następujące operacje na stosie liczb całkowitych. Stos zaimplementowany jako lista jednokierunkowa.
 
 liczba
   włożenie na stos danej liczby
